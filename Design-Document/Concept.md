@@ -49,4 +49,5 @@ In short, in the view of visitor, this is a private chat, in the view of members
 
 I need to check the logic of Support Chat.
 
-#Step 2 (In future, long time later) : User Role based XMPP. To build User Role as a cornerstone concept in XMPP. This is beyond our requirement. So in foreseen future, we won’t do this.
+#Step 2 (In future, long time later) : User Role based XMPP. 
+To build User Role as a cornerstone concept in XMPP. This is beyond our requirement. So in foreseen future, we won’t do this.
