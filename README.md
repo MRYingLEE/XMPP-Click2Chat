@@ -1,4 +1,4 @@
-# XMPP-Click2Chat
+# XMPP-RoleChat
 
 ## Video Demo
 
