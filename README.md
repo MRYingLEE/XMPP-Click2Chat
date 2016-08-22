@@ -16,3 +16,12 @@ You may treate this module as a special MUC of XMPP. And use it as MUC. But when
 LIVE Help/ Support is kind of usage case.
 
 
+## Version
+I developed the module on Prosody 0.9.9. This module should work on recent versions also.
+
+## Pending Patent
+I have a pending patent on role based chat. This module uses the pending patent.
+For all-non-profit usage, I won't charge you, but please let me know your usage.
+
+## Other license
+If you want other license instead of GNU, please contact me.
