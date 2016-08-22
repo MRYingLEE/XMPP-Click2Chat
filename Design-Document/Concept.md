@@ -6,7 +6,7 @@ User Role is a template MUC to members of the role, and a restricted MUC (Only 1
 
 To implement “chat” interface with User Role is not good for we will miss some features of MUC, such as topic. If we extends, the XMPP client is not general (Commercially it is not bad). So make a compromise, we “groupchat” instead of “chat” with a role. At least there is a good excuse that 2 members of a role could join the discussion. (Let me rethink after I finish step 1).
 
-#Step 1:
+#Current Progress:
 At first internally, a User Role is defined as a MUC, template MUC, such as  Sales@Role.Hotline.Chat
 Persistent
 Member Only.
@@ -49,5 +49,5 @@ In short, in the view of visitor, this is a private chat, in the view of members
 
 I need to check the logic of Support Chat.
 
-#Step 2 (In future, long time later) : User Role based XMPP. 
+# User Role based XMPP  (In future, long time later). 
 To build User Role as a cornerstone concept in XMPP. This is beyond our requirement. So in foreseen future, we won’t do this.
