@@ -11,7 +11,7 @@ Please note, this software is technically a module of Prosody XMPP server. In ot
 Sorry, to save cost, I closed my live demo server.
 
 ## Usage
-You may treate this module as a special MUC of XMPP and use it as MUC. But when you chat with an account, such as sales@role.xmpp.org, technically you and the role are in a dynamically created MUC, which is only accessible to you and the target role. BTW, a few people can play the same role.
+You may treat this module as a special MUC of XMPP and use it as MUC. But when you chat with an account, such as sales@role.xmpp.org, technically you and the role are in a dynamically created MUC, which is only accessible to you and the target role. BTW, a few people can play the same role.
 
 LIVE Help/ Support is kind of usage case.
 
