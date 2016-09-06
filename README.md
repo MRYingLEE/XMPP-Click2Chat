@@ -15,6 +15,11 @@ You may treat this module as a special MUC of XMPP and use it as MUC. But when y
 
 LIVE Help/ Support is kind of usage case.
 
+### Contextual Chat, a related client side usage
+https://github.com/MRYingLEE/ContextualChat
+
+### Chat-Bookmarklet, a related client side usage
+https://github.com/MRYingLEE/Chat-Bookmarklet
 
 ## Version
 I developed the module on Prosody 0.9.9. This module should work on recent versions also.
